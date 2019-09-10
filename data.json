@@ -226,8 +226,8 @@
     ]
   },
   "comments":[
-    {"commentId":1, "commentUser":"zkx", "commentDate":"new Date", "commentSays":"这个图片 is Wonderful1"},
-    {"commentId":2, "commentUser":"ah", "commentDate":"new Date", "commentSays":"这个图片 is Wonderful2"},
+    {"commentId":1, "commentUser":"zkx", "commentDate":"new Date", "commentSays":"这个马 is Wonderful1"},
+    {"commentId":2, "commentUser":"lv", "commentDate":"new Date", "commentSays":"这个鑫 is Wonderful2"},
     {"commentId":3, "commentUser":"mx", "commentDate":"new Date", "commentSays":"这个图片 is Wonderful3"},
     {"commentId":4, "commentUser":"zkx", "commentDate":"new Date", "commentSays":"这个图片 is Wonderful4"},
     {"commentId":5, "commentUser":"zk", "commentDate":"new Date", "commentSays":"这个图片 is Wonderful5"},
