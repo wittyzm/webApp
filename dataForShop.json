@@ -1,0 +1,216 @@
+{
+  "slideshow":[
+    "https://case-1254337200.cos.ap-beijing.myqcloud.com/e-commerce/images/ioobot/slideshow/slideshow_1_shopID_default.jpeg",
+    "https://case-1254337200.cos.ap-beijing.myqcloud.com/e-commerce/images/ioobot/slideshow/slideshow_2_shopID_default.jpeg",
+    "https://case-1254337200.cos.ap-beijing.myqcloud.com/e-commerce/images/ioobot/slideshow/slideshow_3_shopID_default.jpeg"
+  ],
+  "product": [
+    {
+      "category_id" : "jacket",
+      "updatedAt" : "2019-07-05 13:39:02",
+      "unit" : "1件",
+      "name" : "春季新款进口绵羊皮机车夹克立领真皮皮衣女外套短款修身显瘦",
+      "createdAt" : "2018-12-31 11:11:11",
+      "status" : "1",
+      "id" : "1",
+      "intro" : "短款版型 连帽设计 撞色包边",
+      "price" : 3.0,
+      "img" : "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg",
+      "stock" : 252,
+      "recommend" : 1,
+      "discountRate" : 100.0
+    },
+    {
+      "category_id" : "shirt",
+      "updatedAt" : "2019-03-14 17:23:29",
+      "unit" : "1件",
+      "name" : "春新款牛津纺衬衫长袖纯棉袖部条纹装饰潮流休闲衬衣",
+      "createdAt" : "2018-12-31 11:11:11",
+      "status" : "1",
+      "id" : "2",
+      "intro" : "漂白",
+      "price" : 120.0,
+      "img" : "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/cs.jpg",
+      "stock" : 148,
+      "recommend" : 1,
+      "discountRate" : 100.0
+    }
+  ],
+  "specStock":[
+    {
+      "id" : "1",
+      "color" : "土黄",
+      "size" : "155/80A(S)",
+      "product_id" : "1",
+      "stock" : 79,
+      "status" : "-1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "2019-03-28 09:21:34",
+      "slideImg" : [
+        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg",
+        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"
+      ],
+      "detailImg" : [
+        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg",
+        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"
+      ]
+    },
+    {
+      "id" : "2",
+      "color" : "土黄",
+      "size" : "160/84A(M)",
+      "product_id" : "1",
+      "stock" : 70,
+      "status" : "-1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "",
+      "slideImg" : [],
+      "detailImg" : []
+    },
+    {
+      "id" : "3",
+      "color" : "土黄",
+      "size" : "165/88A(L)",
+      "product_id" : "1",
+      "stock" : 60,
+      "status" : "1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "",
+      "slideImg" : [],
+      "detailImg" : []
+    },
+    {
+      "id" : "18",
+      "color" : "土黄",
+      "size" : "170/92A(XL)",
+      "product_id" : "1",
+      "stock" : 30,
+      "status" : "1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "",
+      "slideImg" : [],
+      "detailImg" : []
+    },
+    {
+      "id" : "19",
+      "color" : "土黄",
+      "size" : "175/96A(XXL)",
+      "product_id" : "1",
+      "stock" : 50,
+      "status" : "1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "",
+      "detailImg" : [],
+      "slideImg" : []
+    },
+    {
+      "id" : "15",
+      "color" : "卡其",
+      "size" : "155/80A(S)",
+      "product_id" : "1",
+      "stock" : 67,
+      "status" : "1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "",
+      "slideImg" : [],
+      "detailImg" : []
+    },
+    {
+      "id" : "16",
+      "color" : "卡其",
+      "size" : "160/84A(M)",
+      "product_id" : "1",
+      "stock" : 52,
+      "status" : "-1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "",
+      "slideImg" : [],
+      "detailImg" : []
+    },
+    {
+      "id" : "17",
+      "color" : "卡其",
+      "size" : "165/88A(L)",
+      "product_id" : "1",
+      "stock" : 44,
+      "status" : "1",
+      "createdAt" : "2019-03-05 09:11:15",
+      "updatedAt" : "2019-03-28 09:23:16",
+      "detailImg" : [],
+      "slideImg" : []
+    }
+  ],
+  "category":[
+    [
+      {
+        "id" : "jacket",
+        "name" : "夹克",
+        "img" : "https://fz-1254337200.cos.ap-chengdu.myqcloud.com/xtb/jiake.png",
+        "order" : 1,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-20 18:03:08"
+      },
+      {
+        "id" : "coat",
+        "name" : "外套",
+        "img" : "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/icon/coat.png",
+        "order" : 2,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-26 10:42:56"
+      },
+      {
+        "id" : "shirt",
+        "name" : "衬衫",
+        "img" : "https://fz-1254337200.cos.ap-chengdu.myqcloud.com/xtb/chenshan.png",
+        "order" : 3,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-26 10:43:00"
+      },
+      {
+        "id" : "skirt",
+        "name" : "半身裙",
+        "img" : "https://fz-1254337200.cos.ap-chengdu.myqcloud.com/xtb/banshenqun.png",
+        "order" : 5,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-26 10:32:24"
+      },
+      {
+        "id" : "sweater",
+        "name" : "针织衫",
+        "img" : "https://fz-1254337200.cos.ap-chengdu.myqcloud.com/xtb/zhenzhishan.png",
+        "order" : 4,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-19 11:40:15"
+      },
+      {
+        "id" : "windbreak",
+        "name" : "风衣",
+        "img" : "https://fz-1254337200.cos.ap-chengdu.myqcloud.com/xtb/fengyi.png",
+        "order" : 6,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-14 10:59:13"
+      },
+      {
+        "id" : "pants",
+        "name" : "裤子",
+        "img" : "https://fz-1254337200.cos.ap-chengdu.myqcloud.com/xtb/kuzi.png",
+        "order" : 7,
+        "status" : "1",
+        "createdAt" : "2019-03-11 12:45:01",
+        "updatedAt" : "2019-03-15 14:34:35"
+      }
+    ]
+
+  ]
+
+
+
+
+
+}
