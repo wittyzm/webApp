@@ -77,12 +77,12 @@
       "createdAt" : "2019-03-05 09:11:15",
       "updatedAt" : "2019-03-28 09:21:34",
       "slideImg" : [
-        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg",
-        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"
+        {"url":"https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"},
+        {"url":"https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"}
       ],
       "detailImg" : [
-        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg",
-        "https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"
+        {"url":"https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"},
+        {"url":"https://ece-img-1254337200.cos.ap-chengdu.myqcloud.com/jk.jpg"}
       ]
     },
     {
